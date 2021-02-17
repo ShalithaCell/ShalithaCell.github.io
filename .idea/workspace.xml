@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7a159d-6748-4a3a-b517-daafeef6f5da" name="Default Changelist" comment="init publish">
+    <list default="true" id="4d7a159d-6748-4a3a-b517-daafeef6f5da" name="Default Changelist" comment="Update site">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/profile-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/profile-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +68,14 @@
       <workItem from="1613099453917" duration="603000" />
       <workItem from="1613187272035" duration="750000" />
       <workItem from="1613188325893" duration="25006000" />
+      <workItem from="1613238652480" duration="117000" />
+      <workItem from="1613270394891" duration="10584000" />
+      <workItem from="1613366572877" duration="799000" />
+      <workItem from="1613396511182" duration="8096000" />
+      <workItem from="1613445657470" duration="602000" />
+      <workItem from="1613482817979" duration="11784000" />
+      <workItem from="1613531925106" duration="563000" />
+      <workItem from="1613577294294" duration="3479000" />
     </task>
     <task id="LOCAL-00001" summary="init publish">
       <created>1613188358174</created>
@@ -78,7 +84,49 @@
       <option name="project" value="LOCAL" />
       <updated>1613188358174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix data issue">
+      <created>1613238760074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613238760074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Portfolio updated">
+      <created>1613301999008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613301999008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update portfolio">
+      <created>1613413406199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613413406199</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update portfolio">
+      <created>1613414752610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613414752610</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update site">
+      <created>1613495668732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613495668732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update site">
+      <created>1613498744908</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613498744908</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,10 +142,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init publish" />
-    <option name="LAST_COMMIT_MESSAGE" value="init publish" />
+    <MESSAGE value="fix data issue" />
+    <MESSAGE value="Portfolio updated" />
+    <MESSAGE value="Update portfolio" />
+    <MESSAGE value="Update site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update site" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613056483975">
@@ -108,9 +161,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1613187314734" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1613188359842">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613313944677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1613188359842" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1613313944677" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1613498746609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1613498746609" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1613580182608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/1920.0.1920.1040/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1613580182608" />
   </component>
 </project>
